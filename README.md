@@ -1,5 +1,5 @@
 # rust-selfsimilar
-![crates.io](https://img.shields.io/crates/v/rust-selfsimilar.svg)
+[![Crates.io](https://img.shields.io/crates/v/selfsimilar.svg)](https://crates.io/crates/selfsimilar)
 
 A fast generator of discrete random numbers.
 
