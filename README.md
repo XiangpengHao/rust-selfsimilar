@@ -1,4 +1,5 @@
 # rust-selfsimilar
+![crates.io](https://img.shields.io/crates/v/rust-selfsimilar.svg)
 
 A fast generator of discrete random numbers.
 
@@ -15,4 +16,12 @@ For example:
 if N = 25 and h= .10,
 then 80% of the weight goes to the first 5 integers.
 and 64% of the weight goes to the first integer.
+```
+
+
+### Usage
+```rust
+let dist = SelfSimilarDistribution::new(0, 100, 0.2);
+let mut rng = rand::thread_rng();
+let v = dist.sample(rng);
 ```
