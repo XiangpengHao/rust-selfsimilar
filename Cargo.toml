@@ -2,6 +2,10 @@
 name = "rust-selfsimilar"
 version = "0.1.0"
 edition = "2021"
+description = "A fast generator of discrete self similar random numbers"
+keywords = ["random", "distribution", "selfsimilar"]
+categories = ["algorithms"]
+repository = "https://github.com/XiangpengHao/rust-selfsimilar"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
