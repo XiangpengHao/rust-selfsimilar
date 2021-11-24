@@ -1,5 +1,5 @@
 [package]
-name = "rust-selfsimilar"
+name = "selfsimilar"
 version = "0.1.0"
 edition = "2021"
 description = "A fast generator of discrete self similar random numbers"
